@@ -775,7 +775,7 @@
 	pointer-events: none;
 }
 .marketingLogoImage-2SzXIR::before {
-	background: rgb(var(--accentcolor));
+	background: #ff73fa;
 	-webkit-mask: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/guildsettings_boostheader_accent.svg) center/cover no-repeat;
 }
 .marketingLogoImage-2SzXIR::after {
@@ -783,7 +783,7 @@
 	-webkit-mask: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/blurple/guildsettings_boostheader_accent2.svg) center/cover no-repeat;
 }
 #app-mount .tierUnlocked-27DwHo {							/* boostsettings		tierunlocked						*/
-	color: rgb(var(--accentcolor2));
+	color: #ff73fa;
 }
 #app-mount .tierAccomplished-2eXPdI,
 #app-mount .tierCurrent-Lw7-4E,
@@ -811,7 +811,7 @@
 	filter: brightness(75%);
 }
 .memberBadgeIcon-1hpSQc {									/* boostsettings		perkicon guild						*/
-	color: rgb(var(--accentcolor));
+	color: #ff73fa;
 	filter: brightness(150%);
 }
 .profileBadgeIcon-_ctnKj {									/* boostsettings		perkicon badge						*/
@@ -1123,7 +1123,7 @@ img[src="/assets/4697ec960e57790ad4f6251af4c246b4.svg"] {	/* widgetsettings		wid
 	-webkit-mask: url(https://discord.com/assets/955e3c9783043c7080ac202565810fc3.svg) center/contain no-repeat;
 }
 .colored-1armap .profileGuildSubscriberlvl1-3oI9tx {
-	background: rgb(var(--accentcolor2));
+	background: #ff73fa;
 	-webkit-mask: url(https://discord.com/assets/24e49184598820f274e62293349a2e43.svg) center/contain no-repeat;
 }
 .colored-1armap .profileGuildSubscriberlvl2-r6nJHT {
@@ -1188,7 +1188,7 @@ img[src="/assets/4697ec960e57790ad4f6251af4c246b4.svg"] {	/* widgetsettings		wid
 
 .uploadIcon-2IFzZU [fill="#5865f2" i],
 .uploadIcon-2IFzZU [fill="#7289da" i] {						/* create guild			upload icon							*/
-	fill: rgb(var(--accentcolor));
+	fill: #ff73fa;
 }
 
 /* ----		10.3.	REGIONSELECTMODAL				---- */
@@ -1540,10 +1540,10 @@ a.metadataName-14STf- {
 	color: rgb(var(--accentcolor2));
 }
 #app-mount .tierHeaderUnlocked-1n-OTI {						/* modal				tierheaderunlockedbg				*/
-	background: #ffcd4b linear-gradient(90deg, rgb(var(--accentcolor2)), rgba(var(--accentcolor2), 0.5));
+	background: #ffcd4b linear-gradient(90deg, rgb(255,115,250), rgba(var(--accentcolor2), 0.5));
 }
 .wrapper-3nSjSv {											/* modal				boostaddwrapper						*/
-	background: rgb(255, 255, 255) linear-gradient(90deg, rgb(var(--accentcolor2)), rgba(var(--accentcolor2), 0.5));
+	background: rgb(255, 255, 255) linear-gradient(90deg, rgb(255,115,250), rgba(var(--accentcolor2), 0.5));
 }
 .wrapper-3nSjSv::before,									/* modal				boostangel							*/
 .wrapper-3nSjSv::after {
