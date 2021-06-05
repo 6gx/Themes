@@ -803,7 +803,7 @@
 	color: rgb(var(--accentcolor2));
 }
 .emojiIcon-2xOPMD {											/* boostsettings		perkicon emoji						*/
-	color: rgb(var(--accentcolor));
+	color: rgb(142, 160, 225);
 	filter: brightness(75%);
 }
 .uploadSizeIcon-2HNa5p {									/* boostsettings		perkicon upload						*/
