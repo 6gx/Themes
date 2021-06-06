@@ -800,7 +800,7 @@
 	background: #ffcd4b linear-gradient(90deg, rgb(var(--accentcolor)), rgba(var(--accentcolor), 0.5));
 }
 #app-mount .foreground-2EIns2 {								/* boostsettings		icon foreground						*/
-	color: #ff73fa;
+	color: rgb(var(--accentcolor2));
 }
 .emojiIcon-2xOPMD {											/* boostsettings		perkicon emoji						*/
 	color: rgb(142, 160, 225);
