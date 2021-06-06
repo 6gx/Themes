@@ -800,7 +800,7 @@
 	background: #ffcd4b linear-gradient(90deg, rgb(var(--accentcolor)), rgba(var(--accentcolor), 0.5));
 }
 #app-mount .foreground-2EIns2 {								/* boostsettings		icon foreground						*/
-	color: rgb(var(--accentcolor2));
+	color: #ff73fa;
 }
 .emojiIcon-2xOPMD {											/* boostsettings		perkicon emoji						*/
 	color: rgb(142, 160, 225);
@@ -1526,14 +1526,14 @@ a.metadataName-14STf- {
 	color: rgb(var(--accentcolor));
 }
 #app-mount .upload-2-2ZMI {									/* modal				perkicon upload						*/
-	color: rgb(var(--accentcolor2));
+	color: #ff80f4;
 }
 #app-mount .animated-XlVkOl {								/* modal				perkicon animated					*/
-	color: rgb(var(--accentcolor));
+	color: #b0c8fd;
 	filter: brightness(75%);
 }
 #app-mount .stream-3mNTxK {									/* modal				perkicon stream						*/
-	color: rgb(var(--accentcolor));
+	color: #80a5fe;
 	filter: brightness(150%);
 }
 #app-mount .tierUnlocked-25K6Kv {							/* modal				tierunlocked						*/
