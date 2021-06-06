@@ -1540,7 +1540,7 @@ a.metadataName-14STf- {
 	color: rgb(var(--accentcolor2));
 }
 #app-mount .tierHeaderUnlocked-1n-OTI {						/* modal				tierheaderunlockedbg				*/
-	background: #ffcd4b linear-gradient(90deg, rgb(255,115,250), rgba(var(--accentcolor2), 0.5));
+	background: #ffcd4b linear-gradient(90deg, rgb(255,115,250), rgba(102,51,154,0.5);
 }
 .wrapper-3nSjSv {											/* modal				boostaddwrapper						*/
 	background: rgb(255, 255, 255) linear-gradient(90deg, rgb(255,115,250), rgba(var(--accentcolor2), 0.5));
