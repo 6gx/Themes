@@ -1514,7 +1514,7 @@ a.metadataName-14STf- {
 	color: #ff73fa;
 }
 .tierMarkerAccomplished-2MiXeg {							/* modal				tiermarker accomplished				*/
-	background: rgb(255, 255, 255) linear-gradient(90deg, rgb(var(--accentcolor2)), rgba(var(--accentcolor2), 0.7)) !important;
+	background: rgb(255, 255, 255) linear-gradient(90deg, rgb(255, 115, 250), rgba(255, 115, 250, 0.7)) !important;
 }
 #app-mount .barForeground-3KglC8 {							/* modal				tierbarfill							*/
 	background-color: #ff73fa;
@@ -1806,7 +1806,7 @@ a.metadataName-14STf- {
 }
 .colorBrand-ROmMP1:not(.focused-3afm-j):not(:active) .radioSelection-1HmrQS,
 .colorDefault-2K3EoJ:not(.focused-3afm-j):not(:active) .radioSelection-1HmrQS {
-	color: rgb(var(--accentcolor));
+	color: rgb(vcolorar(--accentcolor));
 }
 .colorBrand-ROmMP1:not(.focused-3afm-j):not(:active) .checkbox-3s5GYZ,
 .colorDefault-2K3EoJ:not(.focused-3afm-j):not(:active) .checkbox-3s5GYZ {
@@ -1820,7 +1820,7 @@ a.metadataName-14STf- {
 .colorPremium-p4p7qO:not(.focused-3afm-j):not(:active),		/* contextmenu			premium								*/
 .colorDefault-2K3EoJ:not(.focused-3afm-j):not(:active)[id="user-settings-cog-Nitro_Server_Boost"],
 .colorDefault-2K3EoJ:not(.focused-3afm-j):not(:active)[id="guild-context-guild-settings--GUILD_PREMIUM"] {
-	color: rgb(var(--accentcolor2));
+	color: #ff73fa;
 }
 .colorPremium-p4p7qO.focused-3afm-j,
 .colorPremium-p4p7qO:active:not(.hideInteraction-1iHO1O),
