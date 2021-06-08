@@ -1828,16 +1828,16 @@ a.metadataName-14STf- {
 .colorDefault-2K3EoJ[id="user-settings-cog-Nitro_Server_Boost"]:active:not(.hideInteraction-1iHO1O),
 .colorDefault-2K3EoJ.focused-3afm-j[id="guild-context-guild-settings--GUILD_PREMIUM"],
 .colorDefault-2K3EoJ[id="guild-context-guild-settings--GUILD_PREMIUM"]:active:not(.hideInteraction-1iHO1O) {
-	background-color: rgb(var(--accentcolor2));
+	background-color: rgb(255,115,250);
 }
 .colorPremium-p4p7qO:not(.focused-3afm-j):not(:active) .radioSelection-1HmrQS {
-	color: rgb(var(--accentcolor2));
+	color: rgb(255,115,250);
 }
 .colorPremium-p4p7qO:not(.focused-3afm-j):not(:active) .checkbox-3s5GYZ {
-	color: rgb(var(--accentcolor2));
+	color: rgb(255,115,250);
 }
 .colorPremium-p4p7qO.focused-3afm-j .check-1JyqgN {
-	color: rgb(var(--accentcolor2));
+	color: rgb(255,115,250);
 }
 
 .colorDanger-2qLCe1:not(.focused-3afm-j):not(:active) {		/* contextmenu			danger								*/
@@ -1883,10 +1883,6 @@ a.metadataName-14STf- {
 
 .icon-LYJorE {												/* contextmenu			icon								*/
 	color: currentColor !important;
-}
-
-.colorPremium-p4p7qO .icon-LYJorE {
-    color: #ff73fa;
 }
 
 /* ----		11.2.	USERPOPOUT						---- */
