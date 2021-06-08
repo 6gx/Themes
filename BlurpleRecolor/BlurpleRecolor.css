@@ -714,7 +714,7 @@
 .item-PXvHYJ:hover[aria-controls="Nitro Server Boost-tab"],
 .item-PXvHYJ:hover[aria-controls="Nitro-Server-Boost-tab"],
 .serverBoostTabItem-2hFTIN[aria-selected=false]:hover {
-	background-color: rgba(255,115,250,0.1) !important;
+	background-color: rgba(255,255,255,0.1) !important;
 }
 .item-PXvHYJ.selected-3s45Ha[aria-controls="Nitro Server Boost-tab"],
 .item-PXvHYJ.selected-3s45Ha[aria-controls="Nitro-Server-Boost-tab"],
@@ -797,7 +797,7 @@
 	border-right-color: rgb(var(--accentcolor));
 }
 #app-mount .tierHeaderUnlockedBackground-MW5XJU {			/* boostsettings		tierheaderunlockedbg				*/
-	background: #ffcd4b linear-gradient(90deg, rgb(var(--accentcolor)), rgba(var(--accentcolor), 0.5));
+	background: #ffcd4b linear-gradient(90deg, rgb(255,115,250), rgb(59,14,99));
 }
 #app-mount .foreground-2EIns2 {								/* boostsettings		icon foreground						*/
 	color: #ff73fa;
@@ -1806,7 +1806,7 @@ a.metadataName-14STf- {
 }
 .colorBrand-ROmMP1:not(.focused-3afm-j):not(:active) .radioSelection-1HmrQS,
 .colorDefault-2K3EoJ:not(.focused-3afm-j):not(:active) .radioSelection-1HmrQS {
-	color: rgb(vcolorar(--accentcolor));
+	color: rgb(var(--accentcolor));
 }
 .colorBrand-ROmMP1:not(.focused-3afm-j):not(:active) .checkbox-3s5GYZ,
 .colorDefault-2K3EoJ:not(.focused-3afm-j):not(:active) .checkbox-3s5GYZ {
@@ -1828,7 +1828,7 @@ a.metadataName-14STf- {
 .colorDefault-2K3EoJ[id="user-settings-cog-Nitro_Server_Boost"]:active:not(.hideInteraction-1iHO1O),
 .colorDefault-2K3EoJ.focused-3afm-j[id="guild-context-guild-settings--GUILD_PREMIUM"],
 .colorDefault-2K3EoJ[id="guild-context-guild-settings--GUILD_PREMIUM"]:active:not(.hideInteraction-1iHO1O) {
-	background-color: #ff73fa;
+	background-color: rgb(var(--accentcolor2));
 }
 .colorPremium-p4p7qO:not(.focused-3afm-j):not(:active) .radioSelection-1HmrQS {
 	color: rgb(var(--accentcolor2));
